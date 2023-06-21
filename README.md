@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Murali</h1>
-<h3 align="center">Self taught software developer</h3>
+<h3 align="center">Iam a self taught software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
